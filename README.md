@@ -1,7 +1,7 @@
 
-##Growth Mindset
+## Growth Mindset
 means to **learning to reach the *Top*!** and the talent is the start point to improve your self.[growth mind](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) ![growth set](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.philosophytalk.org%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2Fout-of-your-mind.jpg&imgrefurl=https%3A%2F%2Fwww.philosophytalk.org%2Fshows%2Fmystery-mind&tbnid=GHgXFmK6xampfM&vet=12ahUKEwjV0oDa17LnAhXXdlAKHYNGA-4QMygJegUIARCYAg..i&docid=ynpNRnuUZWuYwM&w=1100&h=619&q=mind&ved=2ahUKEwjV0oDa17LnAhXXdlAKHYNGA-4QMygJegUIARCYAg)
-###reminders too me :thumbsup:
+### reminders too me :thumbsup:
 -nothing imposible
 -you can do it if you search more
 -take it easy boii and will get it :smile:
