@@ -10,7 +10,7 @@ means to **learning to reach the *Top*!** and the talent is the start point to i
 my name is **yousef majdi** im *23* years old i'm a Mechanical Engineering and  im going to be a Software Devoloper :thumbsup: [my github](https://github.com/yousef-97)
 
 
-## Welcome to GitHub 
+## Welcome to GitHub
 
 You can use the [editor on GitHub](https://github.com/yousef-97/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
