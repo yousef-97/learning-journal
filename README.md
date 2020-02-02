@@ -6,7 +6,7 @@ means to **learning to reach the *Top*!** and the talent is the start point to i
 - you can do it if you search more
 - take it easy boii and will get it :smile:
 
-##About Me
+### About Me
 my name is **yousef majdi** im *23* years old i'm a Mechanical Engineering and  im going to be a ssoftare devoloper :thumbsup: [my github](https://github.com/yousef-97)
 
 
