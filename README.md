@@ -1,6 +1,6 @@
 
 ## Growth Mindset
-means to **learning to reach the *Top*!** and the talent is the start point to improve your self.[growth mind](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) ![growth set](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstorage.googleapis.com%2Femotion-studios-cloud%2Fdamelinonline%2Fwpassets%2F2018%2F05%2FMind-Power-1024x683.jpg&imgrefurl=https%3A%2F%2Fwww.damelinonline.co.za%2Fmind-power%2Finfluence-mind-quality-life.html&tbnid=-b8axa9PwzGOBM&vet=12ahUKEwioy6X6xLPnAhUC_RoKHXzyAVQQMygFegUIARCQAg..i&docid=JAXbCclDH1coGM&w=1024&h=683&q=mind&ved=2ahUKEwioy6X6xLPnAhUC_RoKHXzyAVQQMygFegUIARCQAg)
+means to **learning to reach the *Top*!** and the talent is the start point to improve your self.[growth mind](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) ![growth set](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-Um-ge_9D-q5NJRQ6a3XTPe7YhYBYgczSVzrjNSXmnOtGTZ_f)
 ### reminders too me :thumbsup:
 - nothing imposible
 - you can do it if you search more
