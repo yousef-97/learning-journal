@@ -11,3 +11,10 @@ their goals quickly and effectively
 1. wireframes: simple sketch of the key information that needs to go on each page of a site
 It shows the hierarchy of the information and how much space it might require.
 
+# HTML5 layout
+**helpful elemens alternatives to the `<div>` element like:**
+1. header
+1. nav
+1. article
+1. footer
+1. sidebar
