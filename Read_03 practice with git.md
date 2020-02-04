@@ -12,3 +12,5 @@
 that are in the staging area and make the new commit out of those changes)
 1. git commit: its like snapshot of the project's currently staged changes
 1. git clone: its lice copy file but from github accounts
+1. git remote -v: to know the URL of file you work on it
+1. git push origin master: uploading the changes to he cloud
