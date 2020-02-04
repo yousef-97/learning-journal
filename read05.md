@@ -14,7 +14,8 @@ main parts :
 - class selector (.hi{} targets hi class)
 - id selector (#hi{} targets hi id)
 ### cascading rule
-the leatest code will apply for the same seelector ,but if we wrote !important after the value its going to apply the important one
+the leatest code will apply for the same seelector ,but if we wrote !important after 
+the value its going to apply the important one
 
 
    
