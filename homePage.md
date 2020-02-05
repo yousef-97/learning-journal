@@ -2,7 +2,7 @@
 my name is yousef alshen i'm 23 years old 
 ### table of cotents
 name                          | link
------                         |----
+------------------------------|-----------------------------------------------------------------------------------------
 Growth Mindset                | [Growth Mindset](https://yousef-97.github.io/learning-journal/)
 learning Markdown             | [md](https://github.com/yousef-97/learning-journal/blob/master/learning-journal)
 coder's computer              | [CC](https://yousef-97.github.io/learning-journal/Read02)
