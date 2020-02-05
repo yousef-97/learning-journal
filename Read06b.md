@@ -15,7 +15,7 @@ logical gates:
 1. AND
 1. NOT
 ### CPU
-its contain a circuits for each of them spesific jop.
+its contain a circuits for each of them specific job.
 
 
 
