@@ -9,3 +9,11 @@ my name is yousef alshen i'm 23 years old
 |Revision and the coud | [R&C](https://yousef-97.github.io/learning-journal/Read_03%20practice%20with%20git)|
 |Structure web pages with HTML | [SWP html](https://yousef-97.github.io/learning-journal/Read04)|
 |[home page](https://yousef-97.github.io/learning-journal/homePage)|
+
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
